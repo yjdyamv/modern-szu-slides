@@ -1,12 +1,11 @@
-#import "../lib.typ":* 
+#import "../lib.typ": *
 // 便于设置numbering的包
-#import "@preview/numbly:0.1.0":*
+#import "@preview/numbly:0.1.0": *
 // 引入定理环境包 theorion
-#import "@preview/theorion:0.3.3":*
+#import "@preview/theorion:0.3.3": *
 // 以下是theorion可供选择的样式
-// #import cosmos.fancy: *
-// #import cosmos.rainbow: *
-// #import cosmos.clouds: *
+// #import cosmos.fancy: * // #import cosmos.rainbow: * // #import cosmos.clouds: *
+
 #show: show-theorion
 
 #show: szu-theme.with(

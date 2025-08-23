@@ -1,3 +1,4 @@
 # modern-szu-slides
 
-基于touying的内置主题的模板，深圳大学slides
+基于touying的内置主题——stargazer的深圳大学slides模板
+
