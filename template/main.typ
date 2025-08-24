@@ -26,19 +26,17 @@
 
 == 定理环境测试
 
-#theorem(title: "勾股定理")[$a^2+b^2=c^2$]
-
-#example[asdfasdf]
+#theorem(title: "勾股定理")[$triangle A B C, angle C = 90 degree, => a^2+b^2 = c^2$ ]
 
 #theorem(title: "机械功的定义")[$ W = integral_(-oo)^(oo) arrow(F) dot dif arrow(x) $]
 
-#problem[#lorem(20)]
+#problem[Every positive interger, if it is odd, then mutiply by 3 and add 1; if it is even, then divide by 2. Repeat this process, and you will eventually reach 1. It is called the Collatz conjecture. Do you think it is true?]
 
-#lemma[#lorem(20)]
+#lemma[任何线段均可延长至无穷。]
 
-#proposition[#lorem(30)]
+#proposition[1 + 1 = 2]
 
-#corollary[#lorem(10)]
+#corollary[The sum of the interior angles of a triangle is 180 degrees.]
 
 #slide()[
   #lorem(20)
@@ -73,8 +71,6 @@ Just like this.
 Meanwhile, #pause we can also use `#meanwhile` to #pause display other content synchronously.
 
 We can use `#pause` to #pause display something later.
-
-
 
 #show: appendix
 
