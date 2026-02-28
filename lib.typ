@@ -34,7 +34,6 @@
   ..args,
   body,
 ) = {
-
   show: stargazer-theme.with(
     // Lang and font configuration
     lang: "zh",
@@ -58,9 +57,7 @@
 
   set heading(numbering: "1.1.1.1")
 
-  if lang == "zh" {
-    show: show-cn-fakebold
-  }
+  show: if (lang == "zh") { show-cn-fakebold }
 
   body
 }
