@@ -1,5 +1,5 @@
-#import "@preview/touying:0.6.1": *
-#import "@preview/cuti:0.3.0": *
+#import "@preview/touying:0.6.3": *
+#import "@preview/cuti:0.4.0": *
 #import themes.stargazer: *
 
 #let szu-logo-red = image("asset/szu-logo.svg")
