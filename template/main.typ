@@ -30,7 +30,7 @@
 
 #theorem(title: "机械功的定义")[$ W = integral_(-oo)^(oo) arrow(F) dot dif arrow(x) $]
 
-#problem[Every positive interger, if it is odd, then mutiply by 3 and add 1; if it is even, then divide by 2. Repeat this process, and you will eventually reach 1. It is called the Collatz conjecture. Do you think it is true?]
+#problem[Every positive integer, if it is odd, then multiply by 3 and add 1; if it is even, then divide by 2. Repeat this process, and you will eventually reach 1. It is called the Collatz conjecture. Do you think it is true?]
 
 #lemma[任何线段均可延长至无穷。]
 
